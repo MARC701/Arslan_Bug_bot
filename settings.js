@@ -26,7 +26,7 @@ global.wm = "Github MARC701."
 global.link = 'https://chat.whatsapp.com/EJqkKUz9DP8BF3TyW542oz'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['-']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
