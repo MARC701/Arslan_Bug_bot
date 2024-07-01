@@ -198,7 +198,7 @@ const subscribe_TechGod = {
 },
 message: {
 "listResponseMessage": {
-title: `TechGod's ur father`
+title: `Never Mess With Arslan`
 }}
 }
 async function XeonyCrashy(dgxeon,chat) {
@@ -215,10 +215,10 @@ async function loading () {
 var xeonlod = [
 "《 █▒▒▒▒▒▒▒▒▒▒▒》10%",
 "《 ████▒▒▒▒▒▒▒▒》30%",
-"《 ███████▒▒Thomas-Shelby▒▒▒》50%",
+"《 ███████▒▒Arslan_Chaudary▒▒▒》50%",
 "《 ██████████▒▒》80%",
 "《 ████████████》100%",
-"𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 🐛..."
+"𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 🦅..."
 ]
 let { key } = await XeonBotInc.sendMessage(from, {text: 'ʟᴏᴀᴅɪɴɢ...'})
 
@@ -643,9 +643,9 @@ senddocu(buffer)
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: 'Broadcast By Tech God',
+                                title: 'Broadcast By Arslan Chaudary',
                                 body: `Sent ${i.length} Group`,
-                                thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+                                thumbnailUrl: 'https://telegra.ph/file/bfbf03bd4eba3f3096a1e.jpg',
                                 sourceUrl: global.link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -818,7 +818,7 @@ senddocu(buffer)
                 if (!m.isGroup) return replygcxeon(mess.group)
                 if (!isAdmins && !isGroupOwner && !isCreator) return replygcxeon(mess.admin)
                 if (!isBotAdmins) return replygcxeon(mess.botAdmin)
-                let teks = `*👥 Tag All*
+                let teks = `*👥 Tag All By Arslan Chaudary*
  
                  🗞️ *Message : ${q ? q : 'blank'}*\n\n`
                 for (let mem of participants) {
@@ -953,7 +953,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${latensi.toFixed(4)} Second`,
-                            thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+                            thumbnailUrl: 'https://telegra.ph/file/bfbf03bd4eba3f3096a1e.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -967,7 +967,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'buypremium':
             case 'buyprem':
             case 'premium': {
-                let teks = `Hi ${pushname}👋\nWant to Buy Premium? Just chat with the david Cyril wa.me/2347043759577 😉`
+                let teks = `Hi ${pushname}👋\nWant to Buy Premium? Just chat with the MARC wa.me/923288694739 😉`
                 await XeonBotInc.sendMessage(m.chat, {
                     text: teks,
                     contextInfo: {
@@ -975,7 +975,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${ownername}`,
-                            thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+                            thumbnailUrl: 'https://telegra.ph/file/bfbf03bd4eba3f3096a1e.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -994,8 +994,8 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                         externalAdReply: {
                             showAdAttribution: true,
                             title: `${botname}`,
-                            body: `youtube Hacktivist Hive`,
-                            thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+                            body: `facebook https://www.facebook.com/arslan.chaudary.790?mibextid=ZbWKwL `,
+                            thumbnailUrl: 'https://telegra.ph/file/bfbf03bd4eba3f3096a1e.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1010,13 +1010,13 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'repo':
                 XeonBotInc.sendMessage(m.chat, {
                     text: `repo https://github.com/DeeCeeXxx/Thomas_Shelby-Bugbot
-		    youtube https://www.youtube.com/@HacktivistHive`,
+		    facebook https://www.facebook.com/arslan.chaudary.790?mibextid=ZbWKwL`,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
                             title: `${botname}`,
-                            body: `SCRIPT OF ${botname} is on YouTube https://www.youtube.com/@HacktivistHive`,
-                            thumbnailUrl: 'https://telegra.ph/file/4baa59c42efb13597a5be.jpg',
+                            body: `SCRIPT OF ${botname} is on Facebook https://www.facebook.com/arslan.chaudary.790?mibextid=ZbWKwL`,
+                            thumbnailUrl: 'https://telegra.ph/file/bfbf03bd4eba3f3096a1e.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1030,7 +1030,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'donasi':
                 let textnate = `Hello Brother ${pushname}\n\nNo matter how much you donate is very valuable for us`
                 XeonBotInc.sendMessage(m.chat, {
-                    text: 'Upi: number 2347043759577,2349066528353\n\n' + textnate
+                    text: 'Upi: number 923288694739\n\n' + textnate
                 }, {
                     quoted: m
                 })
@@ -1346,7 +1346,7 @@ replygcxeon(`Number ${bnnd} Has Become An Owner!!!`)
 break
 case 'delowner':
                 if (!isCreator) return replygcxeon(mess.owner)
-if (!args[0]) return replygcxeon(`Use ${prefix+command} nomor\nExample ${prefix+command} 2349066528353`)
+if (!args[0]) return replygcxeon(`Use ${prefix+command} nomor\nExample ${prefix+command} 923288694739`)
 ya = q.split("|")[0].replace(/[^0-9]/g, '')
 unp = owner.indexOf(ya)
 owner.splice(unp, 1)
@@ -1823,7 +1823,7 @@ await XeonBotInc.sendMessage(m.chat, { text: ownername, contextInfo:{ isForwarde
 break
 case 'x': {
 if (!isPremium) return replygcxeon(mess.prem)
-if (!args[0]) return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 234xxxxxxxxxx|3`) 
+if (!args[0]) return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 923xxxxxxxxxx|3`) 
 await loading()
 victim = text.split("|")[0]+"@s.whatsapp.net"
 amount = text.split("|")[1] * 30
@@ -1845,7 +1845,7 @@ await sleep(1400)
 break
 case 'iosbug': {
 if (!isPremium) return replygcxeon(mess.prem)
-if (!text) return replygcxeon(`Example:\n ${prefix + command} 234xxxxxxxxxx|3`)
+if (!text) return replygcxeon(`Example:\n ${prefix + command} 923xxxxxxxxxx|3`)
 await loading()
 victim = text.split("|")[0]+"@s.whatsapp.net"
 amount = text.split("|")[1] * 30
@@ -1867,7 +1867,7 @@ await XeonBotInc.sendMessage(m.chat, { "caption": `${ownername}`, audio: wkwk, m
 break
 case 'xaudio': {
 if (!isPremium) return replygcxeon(mess.prem)
-if (!text) return replygcxeon(`Example usage:\n ${prefix + command} 234xxxxxxxxxx|3`)
+if (!text) return replygcxeon(`Example usage:\n ${prefix + command} 923xxxxxxxxxx|3`)
 await loading()
 victim = text.split("|")[0]+"@s.whatsapp.net"
 amount = text.split("|")[1] * 30
@@ -1910,7 +1910,7 @@ XeonBotInc.sendMessage(from, { location: { degreesLatitude: 173.282, degreesLong
 break
 case 'xloc': {
 if (!isPremium) return replygcxeon(mess.prem)
-if (!text) return replygcxeon(`Example: ${prefix + command} 234xxxxxxxxxx|3`)
+if (!text) return replygcxeon(`Example: ${prefix + command} 923xxxxxxxxxx|3`)
 await loading()
 victim = text.split("|")[0]+"@s.whatsapp.net"
 amount = text.split("|")[1] * 30
@@ -2465,13 +2465,13 @@ break
             case 'help':
             case 'alive':
                 let xeonmenuoh = `╭══ *❍ THOMAS_SHELBY-BUG_BOT ❍*
-┃❁ *ᴏᴡɴᴇʀ:* David ○■□● Cyril
+┃❁ *ᴏᴡɴᴇʀ:* Arslan ○■□● Chaudary
 ┃❁ *ᴜᴘᴛɪᴍᴇ:* ${runtime(process.uptime())}
 ┃❁ *User:* ${pushname}
 ╰┈➤ ${xeonytimewisher} 😄  My bro
 ⚠️⚠️ ~Don't forget to star my repo~ 
-*Thomas_Shelby-Bugbot* ~Github Repo~ ⚠️⚠️
-_Repo link https://github.com/DeeCeeXxx/Thomas_Shelby-Bugbot _
+*Arslan_Chaudary-Bugbot* ~Github Repo~ ⚠️⚠️
+_
 ╰═════════════════⊷
 ╭═══❂ 𝗕𝗨𝗚 𝗠𝗘𝗡𝗨 ❂
 ┃ ❏ *xʀᴇᴀᴄᴛ <ʀᴇᴘʟʏ ᴄʜᴀᴛ>*
@@ -2617,7 +2617,7 @@ if (typemenu === 'v1') {
                             externalAdReply: {
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://telegra.ph/file/4baa59c42efb13597a5be.jpg',
+                                thumbnailUrl: 'https://telegra.ph/file/bfbf03bd4eba3f3096a1e.jpg',
                                 sourceUrl: link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -2635,7 +2635,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://telegra.ph/file/4baa59c42efb13597a5be.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/bfbf03bd4eba3f3096a1e.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
